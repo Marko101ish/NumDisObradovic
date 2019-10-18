@@ -1,0 +1,5 @@
+﻿  PolinomDef.cpp
+c:\users\marko\desktop\numdisobradovic\numdisobradovic\polinomdef.cpp(58): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\marko\desktop\numdisobradovic\numdisobradovic\polinomdef.cpp(72): warning C4101: 'i': unreferenced local variable
+c:\users\marko\desktop\numdisobradovic\numdisobradovic\polinomdef.cpp(83): warning C4018: '<': signed/unsigned mismatch
+  NumDisObradovic.vcxproj -> C:\Users\Marko\Desktop\NumDisObradovic\Debug\NumDisObradovic.exe
